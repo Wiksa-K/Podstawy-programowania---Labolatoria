@@ -1,0 +1,11 @@
+C:\Users\73146\source\repos\Programowanie\Programowanie\bin\Debug\net8.0\Programowanie.deps.json
+C:\Users\73146\source\repos\Programowanie\Programowanie\bin\Debug\net8.0\Programowanie.dll
+C:\Users\73146\source\repos\Programowanie\Programowanie\bin\Debug\net8.0\Programowanie.pdb
+C:\Users\73146\source\repos\Programowanie\Programowanie\obj\Debug\net8.0\Programowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\73146\source\repos\Programowanie\Programowanie\obj\Debug\net8.0\Programowanie.AssemblyInfoInputs.cache
+C:\Users\73146\source\repos\Programowanie\Programowanie\obj\Debug\net8.0\Programowanie.AssemblyInfo.cs
+C:\Users\73146\source\repos\Programowanie\Programowanie\obj\Debug\net8.0\Programowanie.csproj.CoreCompileInputs.cache
+C:\Users\73146\source\repos\Programowanie\Programowanie\obj\Debug\net8.0\Programowanie.dll
+C:\Users\73146\source\repos\Programowanie\Programowanie\obj\Debug\net8.0\refint\Programowanie.dll
+C:\Users\73146\source\repos\Programowanie\Programowanie\obj\Debug\net8.0\Programowanie.pdb
+C:\Users\73146\source\repos\Programowanie\Programowanie\obj\Debug\net8.0\ref\Programowanie.dll
